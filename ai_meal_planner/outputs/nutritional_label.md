@@ -1,30 +1,50 @@
-**Nutritional Breakdown for Alex's Dinner Plan**
+### Nutritional Breakdown for Dinner Menu
 
-| **Nutrient**                | **Whole Wheat Vegetable Chapati (1 serving)** | **Paneer Tikka Masala (serving with 200g paneer)** | **Cucumber Raita (1 serving)** | **Chia Seed Pudding (1 serving)** | **Total Meal**          |
-|-----------------------------|-----------------------------------------------|-----------------------------------------------------|-------------------------------|------------------------------------|--------------------------|
-| **Calories**                | 160                                           | 365                                                 | 100                           | 200                                | 825                      |
-| **Total Fat** (g)          | 2.5                                           | 25                                                  | 4                             | 12                                 | 43.5                     |
-| **Saturated Fat** (g)      | 0.5                                           | 15                                                  | 2                             | 10                                 | 27.5                     |
-| **Trans Fat** (g)          | 0                                             | 0                                                   | 0                             | 0                                  | 0                        |
-| **Cholesterol** (mg)       | 0                                             | 56                                                  | 10                            | 0                                  | 66                       |
-| **Sodium** (mg)            | 150                                           | 700                                                 | 120                           | 5                                  | 975                      |
-| **Total Carbohydrates** (g)| 30                                            | 20                                                  | 15                            | 30                                 | 95                       |
-| **Dietary Fiber** (g)      | 5                                             | 0                                                   | 1                             | 10                                 | 16                       |
-| **Sugars** (g)             | 1                                             | 6                                                   | 4                             | 5                                  | 16                       |
-| **Protein** (g)            | 6                                             | 28                                                  | 7                             | 6                                  | 47                       |
+| **Nutrient**               | **Total per Serving**            | **% Daily Value**  |
+|----------------------------|----------------------------------|---------------------|
+| **Calories**               | 650 kcal                         | 33%                 |
+| **Carbohydrates**          | 40 g                             | 13%                 |
+| **Dietary Fiber**          | 12 g                             | 48%                 |
+| **Sugars**                 | 10 g                             | -                   |
+| **Protein**                | 60 g                             | 120%                |
+| **Total Fat**              | 30 g                             | 46%                 |
+| - Saturated Fat            | 10 g                             | 50%                 |
+| - Trans Fat                | 0 g                              | -                   |
+| **Cholesterol**            | 120 mg                           | 40%                 |
 
-**Vitamins and Minerals:**
+### Key Vitamins and Minerals
 
-| **Vitamin/Mineral**         | **Amount**                                   | **Source(s)**                                       |
-|-----------------------------|---------------------------------------------|----------------------------------------------------|
-| **Calcium** (mg)           | 650                                         | Paneer, Yogurt                                      |
-| **Iron** (mg)              | 3                                           | Whole Wheat Flour, Spinach, Chia Seeds            |
-| **Vitamin C** (mg)         | 20                                          | Cucumber, Tomatoes, Spinach                          |
-| **Vitamin A** (IU)         | 500                                         | Carrots, Spinach                                   |
-| **Potassium** (mg)         | 800                                         | Yogurt, Cucumber, Paneer                           |
-| **Magnesium** (mg)         | 60                                          | Chia Seeds, Whole Wheat Flour                      |
+| **Vitamin/Mineral**        | **Amount per Serving**           | **% Daily Value**   |
+|----------------------------|----------------------------------|---------------------|
+| **Vitamin A**              | 3000 IU                          | 60%                 |
+| **Vitamin C**              | 30 mg                            | 50%                 |
+| **Calcium**                | 400 mg                           | 40%                 |
+| **Iron**                   | 5 mg                             | 30%                 |
+| **Potassium**              | 800 mg                           | 20%                 |
+| **Magnesium**              | 90 mg                            | 22%                 |
 
-**Summary of Key Nutrients:**
-This meal plan provides a balance of macronutrients with a total of approximately 825 calories, emphasizing protein through paneer, healthy fats from yogurt and chia seeds, and fiber from whole wheat chapati and vegetables. The dinner is particularly high in calcium and offers a good supply of vitamins A and C, as well as magnesium and potassium. The inclusion of a whole grain, a protein-rich curry, and a refreshing side helps to promote satiety while also delivering essential nutrients to support overall health. 
+### Meal Components & Adjustments
 
-Enjoy your nutritious and delicious meal!
+1. **Grilled Tandoori Chicken with Cauliflower Rice**  
+   - **Ingredients:** 500g skinless chicken, 1 cup Greek yogurt, spices, 1 medium cauliflower, olive oil.  
+   - **Nutritional Contribution:** High protein, low carbs due to cauliflower rice substitute.
+
+2. **Palak Paneer**  
+   - **Ingredients:** 100g low-fat paneer, 2 cups fresh spinach, olive oil, spices.  
+   - **Nutritional Contribution:** Rich in iron, calcium, and protein, with fiber from spinach.
+
+3. **Cucumber Raita**  
+   - **Ingredients:** 1 cup Greek yogurt, ½ cup cucumber, spices.  
+   - **Nutritional Contribution:** Probiotics from yogurt, hydrating cucumber.
+
+4. **Chia Seed Pudding with Mango**  
+   - **Ingredients:** ¼ cup chia seeds, 1 cup almond milk, vanilla, mango.  
+   - **Nutritional Contribution:** Rich source of omega-3s, fiber, antioxidants from mango.
+
+### Additional Notes
+
+- **Caloric Breakdown:** The meal plan is calorically balanced for a filling dinner with high protein content for muscle repair and fiber for digestive health.
+- **Allergy Options:** Vegetarian alternatives (tofu and chickpeas), dairy-free (coconut yogurt), and low-glycemic fruit options for dessert provided.
+- **Health Focus:** This meal plan is designed to be diabetic-friendly while still indulging in traditional Indian flavors.
+
+This comprehensive nutritional label provides Alex with a clear view of the meal's nutritional benefits, allowing for informed eating decisions while ensuring a delicious and hearty dinner experience. Enjoy your meal!

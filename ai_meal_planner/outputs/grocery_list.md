@@ -1,49 +1,41 @@
-**Grocery List for Alex's Dinner Plan**
+**Grocery List for Dinner Menu**
 
 **Vegetables:**
-- Whole wheat flour (1 cup)
-  - *Substitution:* Millet flour (if gluten-free)
-- Carrots (2-3)
-- Fresh spinach (1 bunch)
-- Zucchini (1-2)
-- Cucumber (1)
-- Onions (1 medium)
-- Fresh tomatoes (2-3)
-- Fresh ginger (1 small piece)
-- Fresh garlic (1 head)
-- Fresh cilantro (1 bunch)
-- Fresh mint leaves (for raita)
+- 1 medium cauliflower (for cauliflower rice)
+- 2 cups fresh spinach (for Palak Paneer)
+- 1 cucumber (for Cucumber Raita)
+- 1 onion (for Palak Paneer)
+- 1 piece of ginger (for ginger-garlic paste)
+- 2-3 cloves of garlic (for ginger-garlic paste)
+- 1 lemon (for marinade)
 
 **Proteins:**
-- Paneer (200g)
-  - *Substitution:* Tofu (for vegan option)
-- Plain yogurt (1 cup)
-  - *Substitution:* Coconut yogurt or almond yogurt (for dairy-free option)
+- 500g skinless chicken pieces (for Tandoori Chicken)  
+  *Substitution:* 500g firm tofu or 1 can of chickpeas (rinsed and drained) for a vegetarian option.
+- 100g low-fat paneer (for Palak Paneer)  
+  *Substitution:* Firm tofu for a dairy-free option.
+
+**Dairy:**
+- 1 cup plain Greek yogurt (for marinade and Cucumber Raita)  
+  *Substitution:* Unsweetened coconut yogurt for a dairy-free option.
+  
+**Grains/Nuts/Seeds:**
+- ¼ cup chia seeds (for Chia Seed Pudding)
+- 1 cup unsweetened almond milk (for Chia Seed Pudding)
 
 **Spices:**
-- Turmeric powder (1 tsp)
-- Cumin powder (1.5 tsp total; 1 tsp for marinade and ½ tsp for raita)
-- Coriander powder (1 tsp)
+- 1 tablespoon tandoori masala (for marinade)
+- 1 teaspoon turmeric (for marinade)
+- 1 teaspoon cumin seeds (for Palak Paneer)
+- 1 teaspoon cumin powder (for Palak Paneer and Cucumber Raita)
+- ½ teaspoon roasted cumin powder (for Cucumber Raita)
 - Salt (to taste)
-- Black pepper (optional; for seasoning)
 
-**Grains:**
-- Chia seeds (2 tablespoons)
+**Oils:**
+- 2 tablespoons olive oil (1 for Tandoori Chicken and 1 for Palak Paneer)
 
-**Dairy Alternatives (if needed):**
-- Unsweetened coconut milk (1 cup)
-  - *Substitution:* Almond milk or oat milk 
+**Fruits:**
+- 1 ripe mango (for Chia Seed Pudding)  
+  *Substitution:* Berries or any preferred low-glycemic fruit for topping the pudding.  
 
-**Sweetener (if needed for dessert):**
-- Stevia or other low-glycemic sweetener (to taste)
-
-**Optional for Dessert:**
-- Fresh berries (for topping chia seed pudding)
-
-**Shopping Tips:**
-- Choose seasonal veggies for freshness and better flavor. 
-- Organic options for spices are often more flavorful and can enhance your dishes.
-- For affordable and nutritious dairy-free options, explore local markets or specialty health stores. 
-- If you cannot find paneer, try making it at home using milk and lemon juice, which can be cost-effective.
-
-Enjoy your healthy and stomach-satisfying meal!
+This grocery list ensures that Alex has all the necessary ingredients to create a delicious and healthy dinner menu comprising Grilled Tandoori Chicken with Cauliflower Rice, Palak Paneer, Cucumber Raita, and Chia Seed Pudding with Mango. Adjustments for dietary restrictions and preferences are considered, with suitable substitutions provided for hard-to-find items. Enjoy your meal!
