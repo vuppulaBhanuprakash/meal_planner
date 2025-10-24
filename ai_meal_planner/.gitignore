@@ -1,0 +1,73 @@
+# ======================================
+# Python
+# ======================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+.installed.cfg
+
+# ======================================
+# Virtual Environments
+# ======================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+.venv.bak/
+
+# ======================================
+# CrewAI / LangChain / Gradio / Cache
+# ======================================
+.cache/
+crewai_logs/
+logs/
+outputs/
+artifacts/
+.tmp/
+.gradio/
+langchain/
+langchain_cache/
+chromadb/
+vectorstore/
+*.db
+
+# ======================================
+# IDEs / Editors
+# ======================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================================
+# OS Files
+# ======================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================================
+# Environment and Secrets
+# ======================================
+.env
+.env.local
+.env.*.local
+*.env
+# Add any additional environment files here
+
+# ======================================
+# Misc
+# ======================================
+*.log
+*.bak
+*.tmp
+*.old

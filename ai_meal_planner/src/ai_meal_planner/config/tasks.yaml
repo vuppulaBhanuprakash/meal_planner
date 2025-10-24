@@ -1,0 +1,50 @@
+meal_planning_task:
+  description: >
+    Generate a detailed, personalized, and culturally appropriate meal plan
+    for the given user request: {request} and user information: {user_info}.
+    Ensure meals are balanced, healthy, and align with the user's stated goals.
+    Do not include grocery lists or nutritional data in this task.
+  expected_output: >
+    A complete meal plan according to the user request: {request} and user information: {user_info}
+      - recipies names and brief descriptions
+      - How to cook each meal
+      - How they can improvise the meals if they have any allergy or health concerns.
+  agent: meal_planning_agent
+
+
+grocery_listing_task:
+  description: >
+    Based on the generated meal plan, create a detailed grocery list
+    with healthy, easily available ingredients.
+    Include substitutions for items that may not be commonly available in the user’s region.
+  expected_output: >
+    Grocery list organized by category (vegetables, proteins, grains, spices, etc.).
+  agent: grocery_listing_agent
+  context:
+    - meal_planning_task
+
+
+nutrition_labeling_task:
+  description: >
+    Analyze the nutritional values of the meal plan:.
+    Summarize macronutrients (carbs, proteins, fats) and key vitamins or minerals.
+  expected_output: >
+    A nutritional breakdown table or label for the provided meal plan.
+  agent: nutrion_labeling_agent
+  context:
+    - meal_planning_task
+    - grocery_listing_task
+
+
+output_formatting_task:
+  description: >
+    Combine and format all outputs — meal_plan, grocery_list, and nutritional_info information —
+    into a single, clean, and user-friendly summary document.
+    Make sure the structure is readable and properly formatted for display or sharing.
+  expected_output: >
+    Final formatted text ready to send to the user or export to UI.
+  agent: output_formatting_agent
+  context:
+    - meal_planning_task
+    - grocery_listing_task
+    - nutrition_labeling_task

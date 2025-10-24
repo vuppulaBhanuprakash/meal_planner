@@ -1,0 +1,20 @@
+[project]
+name = "meal_planner"
+version = "0.1.0"
+description = "AI-powered Meal Planner using CrewAI, Gradio, and OpenAI"
+authors = [{ name = "Bhanu Prakash Vuppula" }]
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "crewai>=1.1.0",
+    "openai>=1.0.0",
+    "gradio>=4.0.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0"
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5"
+]
