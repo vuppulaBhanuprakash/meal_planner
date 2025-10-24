@@ -1,5 +1,3 @@
----
-
 # Dinner Recommendation for Indian Food Lovers
 
 **Recommended Meal Plan:**
@@ -9,8 +7,6 @@
 2. **Side Dish:** Palak Paneer (Spinach with Cottage Cheese)
 3. **Accompaniment:** Cucumber Raita
 4. **Dessert:** Chia Seed Pudding with Mango
-
----
 
 ## 1. Grilled Tandoori Chicken with Cauliflower Rice
 
